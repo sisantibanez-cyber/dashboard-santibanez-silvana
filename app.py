@@ -105,6 +105,6 @@ st.download_button('⬇ Descargar datos filtrados (CSV)',
 st.subheader('Conclusiones')
 st.markdown('''
 - **Hallazgo 1:** El valor típico de una casa es de 205,7 millones de pesos (mediana), mientras que el promedio es de 365,5 millones. Son distintos porque unas pocas casas muy caras suben el promedio.
-- **Hallazgo 2:** Al filtrar por comuna, el precio cambia mucho: en La Pintana la mediana es de unos 68 millones de pesos y en Lo Barnechea de unos 991 millones.
+- **Hallazgo 2:** Al filtrar por comuna, el precio cambia mucho: en La Pintana la mediana es de unos 68 millones de pesos y en Lo Barnechea de unos 993 millones.
 - **Hallazgo 3:** La relación entre Built Area y el precio es moderada, con una correlación de r = 0,41: a más metros construidos el precio tiende a ser mayor, aunque la comuna también influye mucho.
 ''')
